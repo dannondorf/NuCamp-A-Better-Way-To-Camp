@@ -10,8 +10,6 @@ h2 {
     color: #3046c5;
 }
 
-
-
 header h2 {
     color: #cec8ff;
 }
@@ -59,4 +57,11 @@ a, a:hover {
 
 .carousel {
     border: solid #5637DD;
+}
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
 }
